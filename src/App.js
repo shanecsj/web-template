@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
-import { Grid } from '@material-ui/core';
+import Dashboard from './Dashboard';
 
 export default function App() {
   return (
-    <div></div>
+    <Dashboard />
   );
 }
